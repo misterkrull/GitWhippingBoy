@@ -1,6 +1,6 @@
-﻿```mermaid
+```mermaid
   graph TB;
-      A-->B3232;
+      A-->B123;
       A-->C232;
       B-->D122323;
       
@@ -16,9 +16,9 @@
 
 ```mermaid
   graph TD;
-      A-->B;
+      A-->B123;
       A-->C;
-      B-->D;
+      B-->D123git;
       C-->D;
       D---Jl123123213;
 ```
