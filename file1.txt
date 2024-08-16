@@ -8,6 +8,7 @@
 412
 qwer
 asd
+вставка новой строки для мёрж-конфликта
 wgwergaergaerwerqwe
 123123
 fgnehe
