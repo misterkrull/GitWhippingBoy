@@ -8,3 +8,4 @@ dsavbjklsdfh
 qweqwee
 sd,f
 dfg
+а эта строка с ГитХаба, но в ветке stashbranch
