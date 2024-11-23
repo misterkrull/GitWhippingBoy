@@ -1,6 +1,6 @@
 ﻿123345346
 хуй
-хуй
+хуй sdfgsdfgdfgdf
 хуй
 хуй
 хуй
@@ -12,3 +12,8 @@ wgwergaergaerwerqwe
 123123
 fgnehe
 sadfajsdflakjdfh
+второй вариант -- в коммит!
+что-то ещё и ещё
+и ещё
+а вот это в индексе
+sdfgsdfgsdfg
